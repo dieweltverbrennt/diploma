@@ -22,7 +22,7 @@
   }
 
   ._hidden {
-    /* visibility: hidden; */
+    visibility: hidden;
   }
   
   .href {
